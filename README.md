@@ -1,16 +1,16 @@
 To-Do List Application
 Project Demo Link:https://bansariahir123.github.io/ToDo/
-Overview
+Overview:
 This To-Do List application allows users to create, edit, delete, and manage their tasks. It is built using React and stores tasks in local storage for persistence across page refreshes.
 
-Features
+Features:
 Add new tasks
 Edit existing tasks
 Delete tasks
 Mark tasks as completed
 Error handling for empty task entries
 Responsive design for mobile and desktop views
-Usage Instructions
+Usage Instructions:
 Adding a Task
 
 Enter the task in the input field and click the Add button.
